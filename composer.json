@@ -1,0 +1,21 @@
+{
+    "name": "ceshi/yii2-ceshi",
+    "description": "this is a ceshi",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "BSD-2-Clause",
+    "authors": [
+        {
+            "name": "leiqianghua",
+            "email": "385612297@qq.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "\\leiqianghua\\ceshi\\": ""
+        }
+    }
+}
