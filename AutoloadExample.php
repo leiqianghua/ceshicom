@@ -9,6 +9,7 @@ class AutoloadExample extends \yii\base\Widget
 {
     public function run()
     {
+        //ddsdssdd
         return "Hello!";
     }
 }
